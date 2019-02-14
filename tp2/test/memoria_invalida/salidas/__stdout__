@@ -1,0 +1,13 @@
+# Cache Inicializada
+
+* Fabricante: Taller
+* Modelo: Full Associative Test CPU
+* Cpu MHz: 1601.34
+
+Miss: 0x00001130
+Miss: 0xff00113c
+
+# Informe
+
+* Total de hits: 0
+* Total de misses: 2

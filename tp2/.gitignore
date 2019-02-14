@@ -1,0 +1,12 @@
+src/input.o
+src/main.o
+src/thread.o
+src/read_and_process_addresses.o
+src/cpu.o
+src/deque.o
+src/vector_fixed.o
+src/cache_direct.o
+src/cache_fa_fifo.o
+src/cache_fa_lru.o
+src/tp
+src/a.zip
