@@ -1,0 +1,17 @@
+src/a.zip
+src/client
+src/server
+src/client_main.o
+src/server_main.o
+src/common_input.o
+src/common_socket.o
+src/common_thread.o
+src/common_matrix.o
+src/server_acceptor.o
+src/server_requests_handler.o
+src/server_sala.o
+src/server_salas.o
+src/server_pelicula.o
+src/server_peliculas.o
+src/server_funciones.o
+src/server_funcion.o
