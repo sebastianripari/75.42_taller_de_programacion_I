@@ -1,0 +1,3 @@
+/home/sebastian/Documents/fiuba/taller_de_programacion_I/taller_ejercicios_final/figuras_geometricas/CMakeFiles/rebuild_cache.dir
+/home/sebastian/Documents/fiuba/taller_de_programacion_I/taller_ejercicios_final/figuras_geometricas/CMakeFiles/client.dir
+/home/sebastian/Documents/fiuba/taller_de_programacion_I/taller_ejercicios_final/figuras_geometricas/CMakeFiles/edit_cache.dir
