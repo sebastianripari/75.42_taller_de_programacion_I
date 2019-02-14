@@ -1,0 +1,23 @@
+Bytecode trace
+bipush
+bipush
+imul
+bipush
+imul
+bipush
+imul
+bipush
+imul
+bipush
+imul
+bipush
+imul
+istore
+
+Variables dump
+41000000
+00000000
+00000000
+00000000
+00000000
+00000000

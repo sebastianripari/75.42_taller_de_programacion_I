@@ -1,0 +1,16 @@
+Bytecode trace
+bipush
+dup
+dup
+istore
+bipush
+iadd
+dup
+dup
+istore
+
+Variables dump
+00000041
+00000042
+00000000
+00000000

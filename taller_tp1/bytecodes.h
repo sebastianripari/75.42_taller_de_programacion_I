@@ -1,0 +1,13 @@
+#define ISTORE 0x36
+#define ILOAD  0x15
+#define BIPUSH 0x10
+#define DUP    0x59
+#define IAND   0x7E
+#define IXOR   0x82
+#define IOR    0x80
+#define IREM   0x70
+#define INEG   0x74
+#define IDIV   0x6C
+#define IADD   0x60
+#define IMUL   0x68
+#define ISUB   0x64

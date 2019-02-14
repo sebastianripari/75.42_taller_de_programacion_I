@@ -1,0 +1,15 @@
+Bytecode trace
+bipush
+bipush
+bipush
+bipush
+istore
+istore
+istore
+istore
+
+Variables dump
+00000041
+00000042
+00000043
+00000044
